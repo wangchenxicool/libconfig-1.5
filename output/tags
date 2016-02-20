@@ -1,0 +1,210 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CONFIG_ERR_FILE_IO	libconfig-x86-64/include/libconfig.h	/^  CONFIG_ERR_FILE_IO = 1,$/;"	e	enum:__anon1
+CONFIG_ERR_NONE	libconfig-x86-64/include/libconfig.h	/^  CONFIG_ERR_NONE = 0,$/;"	e	enum:__anon1
+CONFIG_ERR_PARSE	libconfig-x86-64/include/libconfig.h	/^  CONFIG_ERR_PARSE = 2$/;"	e	enum:__anon1
+CONFIG_FALSE	libconfig-x86-64/include/libconfig.h	68;"	d
+CONFIG_FORMAT_DEFAULT	libconfig-x86-64/include/libconfig.h	58;"	d
+CONFIG_FORMAT_HEX	libconfig-x86-64/include/libconfig.h	59;"	d
+CONFIG_OPTION_AUTOCONVERT	libconfig-x86-64/include/libconfig.h	61;"	d
+CONFIG_OPTION_COLON_ASSIGNMENT_FOR_GROUPS	libconfig-x86-64/include/libconfig.h	63;"	d
+CONFIG_OPTION_COLON_ASSIGNMENT_FOR_NON_GROUPS	libconfig-x86-64/include/libconfig.h	64;"	d
+CONFIG_OPTION_OPEN_BRACE_ON_SEPARATE_LINE	libconfig-x86-64/include/libconfig.h	65;"	d
+CONFIG_OPTION_SEMICOLON_SEPARATORS	libconfig-x86-64/include/libconfig.h	62;"	d
+CONFIG_TRUE	libconfig-x86-64/include/libconfig.h	67;"	d
+CONFIG_TYPE_ARRAY	libconfig-x86-64/include/libconfig.h	55;"	d
+CONFIG_TYPE_BOOL	libconfig-x86-64/include/libconfig.h	54;"	d
+CONFIG_TYPE_FLOAT	libconfig-x86-64/include/libconfig.h	52;"	d
+CONFIG_TYPE_GROUP	libconfig-x86-64/include/libconfig.h	49;"	d
+CONFIG_TYPE_INT	libconfig-x86-64/include/libconfig.h	50;"	d
+CONFIG_TYPE_INT64	libconfig-x86-64/include/libconfig.h	51;"	d
+CONFIG_TYPE_LIST	libconfig-x86-64/include/libconfig.h	56;"	d
+CONFIG_TYPE_NONE	libconfig-x86-64/include/libconfig.h	48;"	d
+CONFIG_TYPE_STRING	libconfig-x86-64/include/libconfig.h	53;"	d
+CROSS	Makefile	/^CROSS=mipsel-openwrt-linux-$/;"	m
+Config	libconfig-x86-64/include/libconfig.h++	/^class LIBCONFIGXX_API Config$/;"	c	namespace:libconfig
+ConfigException	libconfig-x86-64/include/libconfig.h++	/^class LIBCONFIGXX_API ConfigException : public std::exception { };$/;"	c	namespace:libconfig
+FileIOException	libconfig-x86-64/include/libconfig.h++	/^class LIBCONFIGXX_API FileIOException : public ConfigException$/;"	c	namespace:libconfig
+Format	libconfig-x86-64/include/libconfig.h++	/^  enum Format$/;"	g	class:libconfig::Setting
+FormatDefault	libconfig-x86-64/include/libconfig.h++	/^    FormatDefault = 0,$/;"	e	enum:libconfig::Setting::Format
+FormatHex	libconfig-x86-64/include/libconfig.h++	/^    FormatHex = 1$/;"	e	enum:libconfig::Setting::Format
+IPATH	Makefile	/^IPATH:=-I.\/libconfig-x86-64\/include$/;"	m
+LIBCONFIGXX_API	libconfig-x86-64/include/libconfig.h++	32;"	d
+LIBCONFIGXX_API	libconfig-x86-64/include/libconfig.h++	34;"	d
+LIBCONFIGXX_API	libconfig-x86-64/include/libconfig.h++	36;"	d
+LIBCONFIGXX_API	libconfig-x86-64/include/libconfig.h++	39;"	d
+LIBCONFIGXX_VER_MAJOR	libconfig-x86-64/include/libconfig.h++	42;"	d
+LIBCONFIGXX_VER_MINOR	libconfig-x86-64/include/libconfig.h++	43;"	d
+LIBCONFIGXX_VER_REVISION	libconfig-x86-64/include/libconfig.h++	44;"	d
+LIBCONFIG_API	libconfig-x86-64/include/libconfig.h	32;"	d
+LIBCONFIG_API	libconfig-x86-64/include/libconfig.h	34;"	d
+LIBCONFIG_API	libconfig-x86-64/include/libconfig.h	36;"	d
+LIBCONFIG_API	libconfig-x86-64/include/libconfig.h	39;"	d
+LIBCONFIG_VER_MAJOR	libconfig-x86-64/include/libconfig.h	42;"	d
+LIBCONFIG_VER_MINOR	libconfig-x86-64/include/libconfig.h	43;"	d
+LIBCONFIG_VER_REVISION	libconfig-x86-64/include/libconfig.h	44;"	d
+LIBS	Makefile	/^LIBS:=-lpthread$/;"	m
+LPATH	Makefile	/^LPATH:=-L.\/libconfig-x86-64\/lib$/;"	m
+MY_LIB_PATH	Makefile	/^MY_LIB_PATH=\/home\/gnu_src$/;"	m
+Option	libconfig-x86-64/include/libconfig.h++	/^  enum Option$/;"	g	class:libconfig::Setting
+OptionAutoConvert	libconfig-x86-64/include/libconfig.h++	/^    OptionAutoConvert = 0x01,$/;"	e	enum:libconfig::Setting::Option
+OptionColonAssignmentForGroups	libconfig-x86-64/include/libconfig.h++	/^    OptionColonAssignmentForGroups = 0x04,$/;"	e	enum:libconfig::Setting::Option
+OptionColonAssignmentForNonGroups	libconfig-x86-64/include/libconfig.h++	/^    OptionColonAssignmentForNonGroups = 0x08,$/;"	e	enum:libconfig::Setting::Option
+OptionNone	libconfig-x86-64/include/libconfig.h++	/^    OptionNone = 0,$/;"	e	enum:libconfig::Setting::Option
+OptionOpenBraceOnSeparateLine	libconfig-x86-64/include/libconfig.h++	/^    OptionOpenBraceOnSeparateLine = 0x10$/;"	e	enum:libconfig::Setting::Option
+OptionSemicolonSeparators	libconfig-x86-64/include/libconfig.h++	/^    OptionSemicolonSeparators = 0x02,$/;"	e	enum:libconfig::Setting::Option
+ParseException	libconfig-x86-64/include/libconfig.h++	/^class LIBCONFIGXX_API ParseException : public ConfigException$/;"	c	namespace:libconfig
+SRC	Makefile	/^SRC:=$(shell ls *.c)$/;"	m
+Setting	libconfig-x86-64/include/libconfig.h++	/^class LIBCONFIGXX_API Setting$/;"	c	namespace:libconfig
+SettingConstIterator	libconfig-x86-64/include/libconfig.h++	/^class LIBCONFIGXX_API SettingConstIterator$/;"	c	namespace:libconfig
+SettingException	libconfig-x86-64/include/libconfig.h++	/^class LIBCONFIGXX_API SettingException : public ConfigException$/;"	c	namespace:libconfig
+SettingIterator	libconfig-x86-64/include/libconfig.h++	/^class LIBCONFIGXX_API SettingIterator$/;"	c	namespace:libconfig
+SettingNameException	libconfig-x86-64/include/libconfig.h++	/^class LIBCONFIGXX_API SettingNameException : public SettingException$/;"	c	namespace:libconfig
+SettingNotFoundException	libconfig-x86-64/include/libconfig.h++	/^class LIBCONFIGXX_API SettingNotFoundException : public SettingException$/;"	c	namespace:libconfig
+SettingTypeException	libconfig-x86-64/include/libconfig.h++	/^class LIBCONFIGXX_API SettingTypeException : public SettingException$/;"	c	namespace:libconfig
+TARGET	Makefile	/^TARGET:=lx.bin$/;"	m
+Type	libconfig-x86-64/include/libconfig.h++	/^  enum Type$/;"	g	class:libconfig::Setting
+TypeArray	libconfig-x86-64/include/libconfig.h++	/^    TypeArray,$/;"	e	enum:libconfig::Setting::Type
+TypeBoolean	libconfig-x86-64/include/libconfig.h++	/^    TypeBoolean,$/;"	e	enum:libconfig::Setting::Type
+TypeFloat	libconfig-x86-64/include/libconfig.h++	/^    TypeFloat,$/;"	e	enum:libconfig::Setting::Type
+TypeGroup	libconfig-x86-64/include/libconfig.h++	/^    TypeGroup,$/;"	e	enum:libconfig::Setting::Type
+TypeInt	libconfig-x86-64/include/libconfig.h++	/^    TypeInt,$/;"	e	enum:libconfig::Setting::Type
+TypeInt64	libconfig-x86-64/include/libconfig.h++	/^    TypeInt64,$/;"	e	enum:libconfig::Setting::Type
+TypeList	libconfig-x86-64/include/libconfig.h++	/^    TypeList$/;"	e	enum:libconfig::Setting::Type
+TypeNone	libconfig-x86-64/include/libconfig.h++	/^    TypeNone = 0,$/;"	e	enum:libconfig::Setting::Type
+TypeString	libconfig-x86-64/include/libconfig.h++	/^    TypeString,$/;"	e	enum:libconfig::Setting::Type
+__libconfig_h	libconfig-x86-64/include/libconfig.h	24;"	d
+__libconfig_hpp	libconfig-x86-64/include/libconfig.h++	24;"	d
+_config	libconfig-x86-64/include/libconfig.h++	/^  config_t *_config;$/;"	m	class:libconfig::Config
+_count	libconfig-x86-64/include/libconfig.h++	/^  int _count;$/;"	m	class:libconfig::SettingConstIterator
+_count	libconfig-x86-64/include/libconfig.h++	/^  int _count;$/;"	m	class:libconfig::SettingIterator
+_defaultFormat	libconfig-x86-64/include/libconfig.h++	/^  Setting::Format _defaultFormat;$/;"	m	class:libconfig::Config
+_error	libconfig-x86-64/include/libconfig.h++	/^  const char *_error;$/;"	m	class:libconfig::ParseException
+_file	libconfig-x86-64/include/libconfig.h++	/^  const char *_file;$/;"	m	class:libconfig::ParseException
+_format	libconfig-x86-64/include/libconfig.h++	/^  Format _format;$/;"	m	class:libconfig::Setting
+_idx	libconfig-x86-64/include/libconfig.h++	/^  int _idx;$/;"	m	class:libconfig::SettingConstIterator
+_idx	libconfig-x86-64/include/libconfig.h++	/^  int _idx;$/;"	m	class:libconfig::SettingIterator
+_line	libconfig-x86-64/include/libconfig.h++	/^  int _line;$/;"	m	class:libconfig::ParseException
+_path	libconfig-x86-64/include/libconfig.h++	/^  char *_path;$/;"	m	class:libconfig::SettingException
+_setting	libconfig-x86-64/include/libconfig.h++	/^  Setting *_setting;$/;"	m	class:libconfig::SettingIterator
+_setting	libconfig-x86-64/include/libconfig.h++	/^  config_setting_t *_setting;$/;"	m	class:libconfig::Setting
+_setting	libconfig-x86-64/include/libconfig.h++	/^  const Setting *_setting;$/;"	m	class:libconfig::SettingConstIterator
+_type	libconfig-x86-64/include/libconfig.h++	/^  Type _type;$/;"	m	class:libconfig::Setting
+add	libconfig-x86-64/include/libconfig.h++	/^  inline Setting & add(const std::string &name, Type type)$/;"	f	class:libconfig::Setting
+c_str	libconfig-x86-64/include/libconfig.h++	/^  inline const char *c_str() const$/;"	f	class:libconfig::Setting
+config	libconfig-x86-64/include/libconfig.h	/^  struct config_t *config;$/;"	m	struct:config_setting_t	typeref:struct:config_setting_t::config_t
+config_error_file	libconfig-x86-64/include/libconfig.h	315;"	d
+config_error_line	libconfig-x86-64/include/libconfig.h	318;"	d
+config_error_t	libconfig-x86-64/include/libconfig.h	/^} config_error_t;$/;"	t	typeref:enum:__anon1
+config_error_text	libconfig-x86-64/include/libconfig.h	312;"	d
+config_error_type	libconfig-x86-64/include/libconfig.h	321;"	d
+config_get_default_format	libconfig-x86-64/include/libconfig.h	294;"	d
+config_get_include_dir	libconfig-x86-64/include/libconfig.h	208;"	d
+config_get_tab_width	libconfig-x86-64/include/libconfig.h	301;"	d
+config_list_t	libconfig-x86-64/include/libconfig.h	/^typedef struct config_list_t$/;"	s
+config_list_t	libconfig-x86-64/include/libconfig.h	/^} config_list_t;$/;"	t	typeref:struct:config_list_t
+config_root_setting	libconfig-x86-64/include/libconfig.h	286;"	d
+config_set_default_format	libconfig-x86-64/include/libconfig.h	290;"	d
+config_set_tab_width	libconfig-x86-64/include/libconfig.h	297;"	d
+config_setting_get_hook	libconfig-x86-64/include/libconfig.h	266;"	d
+config_setting_is_aggregate	libconfig-x86-64/include/libconfig.h	221;"	d
+config_setting_is_array	libconfig-x86-64/include/libconfig.h	216;"	d
+config_setting_is_group	libconfig-x86-64/include/libconfig.h	214;"	d
+config_setting_is_list	libconfig-x86-64/include/libconfig.h	218;"	d
+config_setting_is_number	libconfig-x86-64/include/libconfig.h	226;"	d
+config_setting_is_root	libconfig-x86-64/include/libconfig.h	243;"	d
+config_setting_is_scalar	libconfig-x86-64/include/libconfig.h	231;"	d
+config_setting_name	libconfig-x86-64/include/libconfig.h	235;"	d
+config_setting_parent	libconfig-x86-64/include/libconfig.h	239;"	d
+config_setting_source_file	libconfig-x86-64/include/libconfig.h	308;"	d
+config_setting_source_line	libconfig-x86-64/include/libconfig.h	304;"	d
+config_setting_t	libconfig-x86-64/include/libconfig.h	/^typedef struct config_setting_t$/;"	s
+config_setting_t	libconfig-x86-64/include/libconfig.h	/^} config_setting_t;$/;"	t	typeref:struct:config_setting_t
+config_setting_type	libconfig-x86-64/include/libconfig.h	211;"	d
+config_t	libconfig-x86-64/include/libconfig.h	/^typedef struct config_t$/;"	s
+config_t	libconfig-x86-64/include/libconfig.h	/^} config_t;$/;"	t	typeref:struct:config_t
+config_value_t	libconfig-x86-64/include/libconfig.h	/^typedef union config_value_t$/;"	u
+config_value_t	libconfig-x86-64/include/libconfig.h	/^} config_value_t;$/;"	t	typeref:union:config_value_t
+const_iterator	libconfig-x86-64/include/libconfig.h++	/^  typedef SettingConstIterator const_iterator;$/;"	t	class:libconfig::Setting
+default_format	libconfig-x86-64/include/libconfig.h	/^  short default_format;$/;"	m	struct:config_t
+destructor	libconfig-x86-64/include/libconfig.h	/^  void (*destructor)(void *);$/;"	m	struct:config_t
+elements	libconfig-x86-64/include/libconfig.h	/^  config_setting_t **elements;$/;"	m	struct:config_list_t
+error_file	libconfig-x86-64/include/libconfig.h	/^  const char *error_file;$/;"	m	struct:config_t
+error_line	libconfig-x86-64/include/libconfig.h	/^  int error_line;$/;"	m	struct:config_t
+error_text	libconfig-x86-64/include/libconfig.h	/^  const char *error_text;$/;"	m	struct:config_t
+error_type	libconfig-x86-64/include/libconfig.h	/^  config_error_t error_type;$/;"	m	struct:config_t
+exists	libconfig-x86-64/include/libconfig.h++	/^  inline bool exists(const std::string &name) const$/;"	f	class:libconfig::Setting
+exists	libconfig-x86-64/include/libconfig.h++	/^  inline bool exists(const std::string &path) const$/;"	f	class:libconfig::Config
+file	libconfig-x86-64/include/libconfig.h	/^  const char *file;$/;"	m	struct:config_setting_t
+filenames	libconfig-x86-64/include/libconfig.h	/^  const char **filenames;$/;"	m	struct:config_t
+format	libconfig-x86-64/include/libconfig.h	/^  short format;$/;"	m	struct:config_setting_t
+fval	libconfig-x86-64/include/libconfig.h	/^  double fval;$/;"	m	union:config_value_t
+getDefaultFormat	libconfig-x86-64/include/libconfig.h++	/^  inline Setting::Format getDefaultFormat() const$/;"	f	class:libconfig::Config
+getError	libconfig-x86-64/include/libconfig.h++	/^  inline const char *getError() const$/;"	f	class:libconfig::ParseException
+getFile	libconfig-x86-64/include/libconfig.h++	/^  inline const char *getFile() const$/;"	f	class:libconfig::ParseException
+getFormat	libconfig-x86-64/include/libconfig.h++	/^  inline Format getFormat() const { return(_format); }$/;"	f	class:libconfig::Setting
+getLine	libconfig-x86-64/include/libconfig.h++	/^  inline int getLine() const$/;"	f	class:libconfig::ParseException
+getType	libconfig-x86-64/include/libconfig.h++	/^  inline Type getType() const { return(_type); }$/;"	f	class:libconfig::Setting
+hook	libconfig-x86-64/include/libconfig.h	/^  void *hook;$/;"	m	struct:config_setting_t
+include_dir	libconfig-x86-64/include/libconfig.h	/^  const char *include_dir;$/;"	m	struct:config_t
+isAggregate	libconfig-x86-64/include/libconfig.h++	/^  inline bool isAggregate() const$/;"	f	class:libconfig::Setting
+isArray	libconfig-x86-64/include/libconfig.h++	/^  inline bool isArray() const$/;"	f	class:libconfig::Setting
+isGroup	libconfig-x86-64/include/libconfig.h++	/^  inline bool isGroup() const$/;"	f	class:libconfig::Setting
+isList	libconfig-x86-64/include/libconfig.h++	/^  inline bool isList() const$/;"	f	class:libconfig::Setting
+isNumber	libconfig-x86-64/include/libconfig.h++	/^  inline bool isNumber() const$/;"	f	class:libconfig::Setting
+isScalar	libconfig-x86-64/include/libconfig.h++	/^  inline bool isScalar() const$/;"	f	class:libconfig::Setting
+iterator	libconfig-x86-64/include/libconfig.h++	/^  typedef SettingIterator iterator;$/;"	t	class:libconfig::Setting
+ival	libconfig-x86-64/include/libconfig.h	/^  int ival;$/;"	m	union:config_value_t
+length	libconfig-x86-64/include/libconfig.h	/^  unsigned int length;$/;"	m	struct:config_list_t
+libconfig	libconfig-x86-64/include/libconfig.h++	/^namespace libconfig {$/;"	n
+line	libconfig-x86-64/include/libconfig.h	/^  unsigned int line;$/;"	m	struct:config_setting_t
+list	libconfig-x86-64/include/libconfig.h	/^  struct config_list_t *list;$/;"	m	union:config_value_t	typeref:struct:config_value_t::config_list_t
+llval	libconfig-x86-64/include/libconfig.h	/^  long long llval;$/;"	m	union:config_value_t
+lookup	libconfig-x86-64/include/libconfig.h++	/^  inline Setting & lookup(const std::string &path) const$/;"	f	class:libconfig::Config
+lookup	libconfig-x86-64/include/libconfig.h++	/^  inline Setting & lookup(const std::string &path) const$/;"	f	class:libconfig::Setting
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &name, bool &value) const$/;"	f	class:libconfig::Setting
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &name, const char *&value) const$/;"	f	class:libconfig::Setting
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &name, double &value) const$/;"	f	class:libconfig::Setting
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &name, float &value) const$/;"	f	class:libconfig::Setting
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &name, int &value) const$/;"	f	class:libconfig::Setting
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &name, long long &value) const$/;"	f	class:libconfig::Setting
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &name, std::string &value) const$/;"	f	class:libconfig::Setting
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &name, unsigned int &value) const$/;"	f	class:libconfig::Setting
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &name,$/;"	f	class:libconfig::Setting
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &path, bool &value) const$/;"	f	class:libconfig::Config
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &path, const char *&value) const$/;"	f	class:libconfig::Config
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &path, double &value) const$/;"	f	class:libconfig::Config
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &path, float &value) const$/;"	f	class:libconfig::Config
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &path, int &value) const$/;"	f	class:libconfig::Config
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &path, long long &value) const$/;"	f	class:libconfig::Config
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &path, std::string &value) const$/;"	f	class:libconfig::Config
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &path, unsigned int &value) const$/;"	f	class:libconfig::Config
+lookupValue	libconfig-x86-64/include/libconfig.h++	/^  inline bool lookupValue(const std::string &path,$/;"	f	class:libconfig::Config
+main	example2.cpp	/^int main (int argc, char **argv) {$/;"	f
+name	libconfig-x86-64/include/libconfig.h	/^  char *name;$/;"	m	struct:config_setting_t
+num_filenames	libconfig-x86-64/include/libconfig.h	/^  unsigned int num_filenames;$/;"	m	struct:config_t
+operator !=	libconfig-x86-64/include/libconfig.h++	/^  inline bool operator!=(SettingConstIterator const &other) const$/;"	f	class:libconfig::SettingConstIterator
+operator !=	libconfig-x86-64/include/libconfig.h++	/^  inline bool operator!=(SettingIterator const &other) const$/;"	f	class:libconfig::SettingIterator
+operator *	libconfig-x86-64/include/libconfig.h++	/^  inline Setting & operator*()$/;"	f	class:libconfig::SettingIterator
+operator *	libconfig-x86-64/include/libconfig.h++	/^  inline Setting const & operator*()$/;"	f	class:libconfig::SettingConstIterator
+operator *	libconfig-x86-64/include/libconfig.h++	/^  inline const Setting & operator*() const$/;"	f	class:libconfig::SettingIterator
+operator *	libconfig-x86-64/include/libconfig.h++	/^  inline const Setting& operator*() const$/;"	f	class:libconfig::SettingConstIterator
+operator ->	libconfig-x86-64/include/libconfig.h++	/^  inline Setting * operator->()$/;"	f	class:libconfig::SettingIterator
+operator ->	libconfig-x86-64/include/libconfig.h++	/^  inline Setting const * operator->()$/;"	f	class:libconfig::SettingConstIterator
+operator ->	libconfig-x86-64/include/libconfig.h++	/^  inline const Setting * operator->() const$/;"	f	class:libconfig::SettingConstIterator
+operator ->	libconfig-x86-64/include/libconfig.h++	/^  inline const Setting * operator->() const$/;"	f	class:libconfig::SettingIterator
+operator ==	libconfig-x86-64/include/libconfig.h++	/^  bool operator==(SettingConstIterator const &other) const$/;"	f	class:libconfig::SettingConstIterator
+operator ==	libconfig-x86-64/include/libconfig.h++	/^  inline bool operator==(SettingIterator const &other) const$/;"	f	class:libconfig::SettingIterator
+options	libconfig-x86-64/include/libconfig.h	/^  int options;$/;"	m	struct:config_t
+parent	libconfig-x86-64/include/libconfig.h	/^  struct config_setting_t *parent;$/;"	m	struct:config_setting_t	typeref:struct:config_setting_t::config_setting_t
+readString	libconfig-x86-64/include/libconfig.h++	/^  inline void readString(const std::string &str)$/;"	f	class:libconfig::Config
+remove	libconfig-x86-64/include/libconfig.h++	/^  inline void remove(const std::string &name)$/;"	f	class:libconfig::Setting
+root	libconfig-x86-64/include/libconfig.h	/^  config_setting_t *root;$/;"	m	struct:config_t
+sval	libconfig-x86-64/include/libconfig.h	/^  char *sval;$/;"	m	union:config_value_t
+tab_width	libconfig-x86-64/include/libconfig.h	/^  unsigned short tab_width;$/;"	m	struct:config_t
+type	libconfig-x86-64/include/libconfig.h	/^  short type;$/;"	m	struct:config_setting_t
+value	libconfig-x86-64/include/libconfig.h	/^  config_value_t value;$/;"	m	struct:config_setting_t
